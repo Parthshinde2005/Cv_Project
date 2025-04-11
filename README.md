@@ -92,7 +92,4 @@ http://localhost:5000
 - SQL injection prevention
 - XSS protection
 
-## License
-
-MIT License
-# intellimatch
+MatchMinds
